@@ -1,0 +1,1 @@
+{"version":3,"file":"securityResource.js","sourceRoot":"","sources":["../../../src/modules/security/securityResource.ts"],"names":[],"mappings":";;;IACA;QAGI,0BAAY,UAAiB,EAAE,GAAU;YACrC,IAAI,CAAC,UAAU,GAAG,UAAU,CAAC;YAC7B,IAAI,CAAC,GAAG,GAAG,GAAG,CAAC;QACnB,CAAC;QACL,uBAAC;IAAD,CAAC,AAPD,IAOC;IAPY,4CAAgB"}

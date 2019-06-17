@@ -1,0 +1,40 @@
+.c-layout {
+    height: 97%;
+    width: 99%;
+    background-color: rgb(249, 250, 252);
+    position: absolute;
+}
+
+.c-layout .el-header {
+    background-color: rgb(249, 250, 252);
+}
+
+.c-layout .el-aside {
+    background-color: rgb(249, 250, 252);
+    width: 200px;
+}
+
+.c-layout .el-main {
+    background-color: rgb(249, 252, 252);
+    overflow: auto;
+}
+
+.c-layout .c-layout-container {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+}
+
+.c-layout .c-layout-logo {
+    width: 200px;
+    position: absolute;
+    top: 15px;
+    left: 0px;
+}
+
+.c-layout .c-layout-me {
+    position: absolute;
+    right: 0px;
+}
